@@ -1,0 +1,5 @@
+rndunix.o : \
+ rndunix.c ../../config.h ../../defs.h
+rndunix.c :
+../../config.h :
+../../defs.h :

@@ -1,0 +1,62 @@
+adhoc[3601]: Please note that you don't have secure memory on this system
+adhoc[3601]: 3601 connection accepted from 127.0.0.1
+adhoc[3601]: First line is : SIP/2.0 sip:sip.iptel.org SIP/2.0
+adhoc[3601]: SIP/2.0
+adhoc[3601]: Other header found in 34
+adhoc[3601]: Other header found in 66
+adhoc[3601]: Header To found in 86
+adhoc[3601]: The address is : dephee@iptel.org
+adhoc[3601]: Other header found in 133
+adhoc[3601]: Header From found in 144
+adhoc[3601]: The address is : depirianto@yahoo.co.uk
+adhoc[3601]: Other header found in 199
+adhoc[3601]: Other header found in 233
+adhoc[3601]: Other header found in 251
+adhoc[3601]: Other header found in 275
+adhoc[3601]: Other header found in 295
+adhoc[3601]: Other header found in 318
+adhoc[3601]: ***** BEGIN SIP MESSAGE DUMP *****
+adhoc[3601]: message type :1
+adhoc[3601]: This is an outgoing message
+adhoc[3601]: Address of sender: depirianto@yahoo.co.uk
+adhoc[3601]: Address of receiver: dephee@iptel.org
+adhoc[3601]: SIP/2.0 sip:sip.iptel.org SIP/2.0
+Via: SIP/2.0/UDP 193.175.135.59
+CSeq: 7103 REGISTER
+To: "Unggul Depirianto" <sip:dephee@iptel.org>
+Expires: 0
+From: "Unggul Depirianto" <sip:depirianto@yahoo.co.uk>
+Call-ID: 876620210@193.175.135.59
+Content-Length: 0
+User-Agent: KPhone/2.11
+Event: registration
+Allow-Events: presence
+Contact: "Unggul Depirianto" <sip:ude@193.175.135.59;transport=udp>;methods="INVITE, MESSAGE, INFO, SUBSCRIBE, OPTIONS, BYE, CANCEL, NOTIFY, ACK"
+
+adhoc[3601]: -----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SIP/2.0 sip:sip.iptel.org SIP/2.0
+Via: SIP/2.0/UDP 193.175.135.59
+CSeq: 7103 REGISTER
+To: "Unggul Depirianto" <sip:dephee@iptel.org>
+Expires: 0
+From: "Unggul Depirianto" <sip:depirianto@yahoo.co.uk>
+Call-ID: 876620210@193.175.135.59
+Content-Length: 0
+User-Agent: KPhone/2.11
+Event: registration
+Allow-Events: presence
+Contact: "Unggul Depirianto" <sip:ude@193.175.135.59;transport=udp>;methods="INVITE, MESSAGE, INFO, SUBSCRIBE, OPTIONS, BYE, CANCEL, NOTIFY, ACK"
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v0.1 (Linux)
+
+iQCVAwUBPlVnBIX4o24Ba8+cAQJLagP+LgY9SJ0j+z6WiIOOZfwgXmhlMTwsMw+h
+28N/MiJTfdYR0m+v7GTdkmRaMI8rqu+d/2IbCdps64I7tqmR1WHMtpKBOfVjeNqt
+5ddzNTbZ6gekw8OMTyMwCupsxyC3Cs6Rc3zbW6eykXmcLkX3eCMY4AiONMIlzg0R
+cUdM6HOq6Tc=
+=apcx
+-----END PGP SIGNATURE-----
+adhoc[3601]: 3603 connection closed from 127.0.0.1

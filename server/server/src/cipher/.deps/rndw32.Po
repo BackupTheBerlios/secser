@@ -1,0 +1,5 @@
+rndw32.o : \
+ rndw32.c ../../config.h ../../defs.h
+rndw32.c :
+../../config.h :
+../../defs.h :

@@ -1,0 +1,126 @@
+udp_server.o : \
+ udp_server.c /usr/include/stdlib.h \
+ /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/gnu/stubs.h \
+ /usr/lib/gcc-lib/i386-redhat-linux/2.95.3/include/stddef.h \
+ /usr/include/sys/types.h /usr/include/bits/types.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/sched.h \
+ /usr/include/time.h /usr/include/endian.h /usr/include/bits/endian.h \
+ /usr/include/sys/select.h /usr/include/bits/select.h \
+ /usr/include/bits/sigset.h /usr/include/bits/time.h \
+ /usr/include/sys/sysmacros.h /usr/include/alloca.h \
+ /usr/include/string.h /usr/include/bits/string.h \
+ /usr/include/bits/string2.h /usr/include/sys/socket.h \
+ /usr/include/sys/uio.h /usr/include/bits/uio.h \
+ /usr/include/bits/socket.h \
+ /usr/lib/gcc-lib/i386-redhat-linux/2.95.3/include/limits.h \
+ /usr/lib/gcc-lib/i386-redhat-linux/2.95.3/include/syslimits.h \
+ /usr/include/limits.h /usr/include/bits/posix1_lim.h \
+ /usr/include/bits/local_lim.h /usr/include/linux/limits.h \
+ /usr/include/bits/posix2_lim.h /usr/include/bits/sockaddr.h \
+ /usr/include/asm/socket.h /usr/include/asm/sockios.h \
+ /usr/include/netinet/in.h /usr/include/stdint.h \
+ /usr/include/bits/wchar.h /usr/include/bits/wordsize.h \
+ /usr/include/bits/in.h /usr/include/bits/byteswap.h \
+ /usr/include/errno.h /usr/include/bits/errno.h \
+ /usr/include/linux/errno.h /usr/include/asm/errno.h \
+ /usr/include/arpa/inet.h /usr/include/linux/types.h \
+ /usr/include/linux/posix_types.h /usr/include/linux/stddef.h \
+ /usr/lib/gcc-lib/i386-redhat-linux/2.95.3/include/asm/posix_types.h \
+ /usr/include/asm/posix_types.h /usr/include/asm/types.h \
+ /usr/include/linux/errqueue.h ../src/include/util.h \
+ ../src/include/types.h ../config.h ../defs.h ../src/include/errors.h \
+ ../src/include/mpi.h /usr/include/stdio.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h /usr/include/gconv.h \
+ /usr/lib/gcc-lib/i386-redhat-linux/2.95.3/include/stdarg.h \
+ /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+ /usr/include/bits/stdio.h ../src/include/iobuf.h \
+ ../src/include/memory.h ip_addr.h udp_server.h adhoc.h msg.h \
+ /usr/include/netdb.h /usr/include/rpc/netdb.h \
+ /usr/include/bits/netdb.h globals.h g10/packet.h \
+ ../src/include/cipher.h ../src/include/../cipher/random.h \
+ g10/filter.h g10/global.h
+udp_server.c :
+/usr/include/stdlib.h :
+/usr/include/features.h :
+/usr/include/sys/cdefs.h :
+/usr/include/gnu/stubs.h :
+/usr/lib/gcc-lib/i386-redhat-linux/2.95.3/include/stddef.h :
+/usr/include/sys/types.h :
+/usr/include/bits/types.h :
+/usr/include/bits/pthreadtypes.h :
+/usr/include/bits/sched.h :
+/usr/include/time.h :
+/usr/include/endian.h :
+/usr/include/bits/endian.h :
+/usr/include/sys/select.h :
+/usr/include/bits/select.h :
+/usr/include/bits/sigset.h :
+/usr/include/bits/time.h :
+/usr/include/sys/sysmacros.h :
+/usr/include/alloca.h :
+/usr/include/string.h :
+/usr/include/bits/string.h :
+/usr/include/bits/string2.h :
+/usr/include/sys/socket.h :
+/usr/include/sys/uio.h :
+/usr/include/bits/uio.h :
+/usr/include/bits/socket.h :
+/usr/lib/gcc-lib/i386-redhat-linux/2.95.3/include/limits.h :
+/usr/lib/gcc-lib/i386-redhat-linux/2.95.3/include/syslimits.h :
+/usr/include/limits.h :
+/usr/include/bits/posix1_lim.h :
+/usr/include/bits/local_lim.h :
+/usr/include/linux/limits.h :
+/usr/include/bits/posix2_lim.h :
+/usr/include/bits/sockaddr.h :
+/usr/include/asm/socket.h :
+/usr/include/asm/sockios.h :
+/usr/include/netinet/in.h :
+/usr/include/stdint.h :
+/usr/include/bits/wchar.h :
+/usr/include/bits/wordsize.h :
+/usr/include/bits/in.h :
+/usr/include/bits/byteswap.h :
+/usr/include/errno.h :
+/usr/include/bits/errno.h :
+/usr/include/linux/errno.h :
+/usr/include/asm/errno.h :
+/usr/include/arpa/inet.h :
+/usr/include/linux/types.h :
+/usr/include/linux/posix_types.h :
+/usr/include/linux/stddef.h :
+/usr/lib/gcc-lib/i386-redhat-linux/2.95.3/include/asm/posix_types.h :
+/usr/include/asm/posix_types.h :
+/usr/include/asm/types.h :
+/usr/include/linux/errqueue.h :
+../src/include/util.h :
+../src/include/types.h :
+../config.h :
+../defs.h :
+../src/include/errors.h :
+../src/include/mpi.h :
+/usr/include/stdio.h :
+/usr/include/libio.h :
+/usr/include/_G_config.h :
+/usr/include/wchar.h :
+/usr/include/gconv.h :
+/usr/lib/gcc-lib/i386-redhat-linux/2.95.3/include/stdarg.h :
+/usr/include/bits/stdio_lim.h :
+/usr/include/bits/sys_errlist.h :
+/usr/include/bits/stdio.h :
+../src/include/iobuf.h :
+../src/include/memory.h :
+ip_addr.h :
+udp_server.h :
+adhoc.h :
+msg.h :
+/usr/include/netdb.h :
+/usr/include/rpc/netdb.h :
+/usr/include/bits/netdb.h :
+globals.h :
+g10/packet.h :
+../src/include/cipher.h :
+../src/include/../cipher/random.h :
+g10/filter.h :
+g10/global.h :

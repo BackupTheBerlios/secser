@@ -1,0 +1,39 @@
+SIP/2.0 sip:sip.iptel.org SIP/2.0
+Via: SIP/2.0/UDP 193.175.135.59
+CSeq: 7103 REGISTER
+To: "Unggul Depirianto" <sip:dephee@iptel.org>
+Expires: 0
+From: "Unggul Depirianto" <sip:depirianto@yahoo.co.uk>
+Call-ID: 876620210@193.175.135.59
+Content-Length: 0
+User-Agent: KPhone/2.11
+Event: registration
+Allow-Events: presence
+Contact: "Unggul Depirianto" <sip:ude@193.175.135.59;transport=udp>;methods="INVITE, MESSAGE, INFO, SUBSCRIBE, OPTIONS, BYE, CANCEL, NOTIFY, ACK"
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SIP/2.0 sip:sip.iptel.org SIP/2.0
+Via: SIP/2.0/UDP 193.175.135.59
+CSeq: 7103 REGISTER
+To: "Unggul Depirianto" <sip:dephee@iptel.org>
+Expires: 0
+From: "Unggul Depirianto" <sip:depirianto@yahoo.co.uk>
+Call-ID: 876620210@193.175.135.59
+Content-Length: 0
+User-Agent: KPhone/2.11
+Event: registration
+Allow-Events: presence
+Contact: "Unggul Depirianto" <sip:ude@193.175.135.59;transport=udp>;methods="INVITE, MESSAGE, INFO, SUBSCRIBE, OPTIONS, BYE, CANCEL, NOTIFY, ACK"
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v0.1 (Linux)
+
+iQCVAwUBPlVlkIX4o24Ba8+cAQKJUQP/dQT3UYf6+jJDoG+ZJsyg56+p475a4GKE
+JDBv/GGy+IwA3/xYuepogEk9EGeoXGVB92oRWPivJNGH8vS+OuuNkYtl8N3LtMYz
+rKa6KET9SRKui4at29KBZvZ6cglsYv1/LVenTdUs6TEPs9zC0AH07K8gbnZOAnIO
+sVdLBUSz/ZM=
+=8M/h
+-----END PGP SIGNATURE-----

@@ -1,0 +1,5 @@
+uncompr.o : \
+ uncompr.c zlib.h zconf.h
+uncompr.c :
+zlib.h :
+zconf.h :

@@ -1,0 +1,22 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SIP/2.0
+server.c:180: warning: passing arg 2 of `getsockname' from incompatible pointer type
+server.c:199: warning: passing arg 2 of `accept' from incompatible pointer type
+server.c:219: warning: passing arg 2 of `getpeername' from incompatible pointer type
+gcc  -g -O2   -o adhoc  main.o server.o ./g10/libgpg.a ./cipher/libcipher.a ./mpi/libmpi.a ./util/libutil.a ./zlib/libzlib.a
+make[1]: Leaving directory `/home/ude/project/server/src'
+[ude@dephee src]$ ./adhoc --verbose
+listening..0
+server listening on 0.0.0.0:4050
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v0.1 (Linux)
+
+iQCVAwUBPlDIYoX4o24Ba8+cAQKjOQP9EyMeLwNjkzXkhP60u+t4zuV41zAqVoKh
+Cx6r1mZItvtsnBe4N2nOxdeutDCcGAvf+uDQh6TMSDjBDDBrBpZyAIDc3v9j2D0x
+rtTdFckNEEngNZ/2xbp5lrr5oiN2USuVkVUEMVuYFaR80usI2/hxXR2LOvz/Onhx
+8DXmdqu6Mng=
+=bgCM
+-----END PGP SIGNATURE-----
