@@ -1,5 +1,0 @@
-simple-gettext.o : \
- simple-gettext.c ../../config.h ../../defs.h
-simple-gettext.c :
-../../config.h :
-../../defs.h :

@@ -1,5 +1,0 @@
-crc32.o : \
- crc32.c zlib.h zconf.h
-crc32.c :
-zlib.h :
-zconf.h :

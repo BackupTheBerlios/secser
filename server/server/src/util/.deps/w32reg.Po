@@ -1,5 +1,0 @@
-w32reg.o : \
- w32reg.c ../../config.h ../../defs.h
-w32reg.c :
-../../config.h :
-../../defs.h :

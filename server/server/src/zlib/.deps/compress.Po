@@ -1,5 +1,0 @@
-compress.o : \
- compress.c zlib.h zconf.h
-compress.c :
-zlib.h :
-zconf.h :

@@ -1,5 +1,0 @@
-rndegd.o : \
- rndegd.c ../../config.h ../../defs.h
-rndegd.c :
-../../config.h :
-../../defs.h :
